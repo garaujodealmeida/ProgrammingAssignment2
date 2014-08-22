@@ -1,6 +1,6 @@
 ## cachematrix.R
 ## Coursera - Programming Assignment 2: Lexical Scoping
-## Autor: Gabriel 
+## Autor: ssirbill
 
 ## Creates a special "matrix" object that can cache its inverse
 
